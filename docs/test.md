@@ -1,7 +1,7 @@
 ---
 layout: default
-title: test
-nav_order: 2
+title: 1번
+nav_order: 1
 ---
 
 #test 222

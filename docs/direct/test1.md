@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test
+title: 1번
 nav_order: 1
 ---
 

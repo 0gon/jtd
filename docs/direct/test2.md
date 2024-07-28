@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 이름
+title: 2번
 nav_order: 2
 ---
 
